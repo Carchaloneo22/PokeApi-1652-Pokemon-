@@ -96,7 +96,7 @@ encounter_condition_value_id,local_language_id,name
 38,9,None
 38,5,Aucune
 39,9,Beat the Pokémon league after knocking out Snorlax at Route 11
-39,5,Après avoir mis Ronflex KO sur la route 11, puis avoir battu la Ligue
+39,5,"Après avoir mis Ronflex KO sur la route 11, puis avoir battu la Ligue"
 40,9,Playing on the Virtual Console Release
 40,5,En jouant sur la version Virtual Console
 41,9,Cure the nightmares of Eldritch’s Son
@@ -159,5 +159,5 @@ encounter_condition_value_id,local_language_id,name
 69,5,Après avoir parlé à 32 personnes dans les souterrains
 70,9,Returned Machine Part to Power Plant
 70,5,Après avoir rapporté la pièce de machine à la centrale
-10,9,Have an Event Arceus in the party
-10,5,En ayant un Arceus événementiel dans l’équipe
+71,9,Have an Event Arceus in the party
+71,5,En ayant un Arceus événementiel dans l’équipe
